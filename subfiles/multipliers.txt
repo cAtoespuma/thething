@@ -1,0 +1,5 @@
+square, 250x250,550x550
+portrait, 200x250,450x550
+landscape, 375x250,825x550
+
+(the width is taken in consideration first, before the height)
