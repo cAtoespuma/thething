@@ -1,0 +1,38 @@
+<html>
+    <title>
+        SELECTORY
+    </title>
+    <body>
+        <center>
+            <h1>If you have been given the knowledge of this directory,<br>do not share this with anybody else</h1>
+            <h2>In this part of the website I will document every single test/study session of mine, whether it's CSS or JavaScript</h2>
+
+        </center>
+        <center>
+            <style>
+                .sty1 {
+                    width: 1080;
+                    height: 50;
+                    font: bold;
+                    font-stretch: expanded;
+                }
+                .styraw {
+                    width: 50;
+                    height: 50;
+                }
+
+            </style>
+            <span>
+                <a href = "index.html"><button class = "sty1">index.html (contains CSS)</button></a>
+                <a href = "index.txt"><button class = "styraw">RAW</button></a>
+                <br>
+                <a href = "second.html"><button class = "sty1">second.html</button></a>
+                <a href = "second.txt"><button class = "styraw">RAW</button></a>
+                <br>
+                <a href = "selectory.html"><button class = "sty1">selectory.html (contains CSS) [THIS IS THE FILE YOU ARE VIEWING RIGHT NOW]</button></a>
+                <a href = "selectory.txt"><button class = "styraw">RAW</button></a>
+                
+            </span>
+        </center>
+    </body>
+</html>
